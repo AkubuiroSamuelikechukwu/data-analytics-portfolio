@@ -21,6 +21,9 @@ Skills
 Projects
 
 Automotive Sales Dashboard
+## Automotive Sales Dashboard
+
+![Automotive Dashboard](Images/automotive-dashboard.png)
 
 Tools: SQL, Tableau
 
@@ -30,6 +33,9 @@ Tools: SQL, Tableau
 
 
 Sales Performance Dashboard
+## Sales Performance Dashboard
+
+![Sales Dashboard](Images/sales-dashboard.png)
 
 Tools: SQL, Tableau
 
@@ -38,6 +44,9 @@ Tools: SQL, Tableau
 * Developed an interactive dashboard for business reporting.
 
 Breast Cancer Dashboard
+## Breast Cancer Dashboard
+
+![Breast Cancer Dashboard](Images/breast-dashboard.png)
 
 Tools: SQL, Tableau
 
