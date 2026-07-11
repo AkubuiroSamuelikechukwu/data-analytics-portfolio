@@ -1,4 +1,4 @@
-Samuel Ikechukwu
+Akubuiro Samuel Ikechukwu
 
 Data Analyst Portfolio
 
@@ -21,9 +21,8 @@ Skills
 Projects
 
 Automotive Sales Dashboard
-## Automotive Sales Dashboard
 
-![Automotive Dashboard](Images/automotive-dashboard.png)
+![Automotive Dashboard](Images/automotive-sales-dashboard.png.png)
 
 Tools: SQL, Tableau
 
@@ -33,7 +32,6 @@ Tools: SQL, Tableau
 
 
 Sales Performance Dashboard
-## Sales Performance Dashboard
 
 ![Sales Dashboard](Images/sales-dashboard.png)
 
@@ -44,9 +42,8 @@ Tools: SQL, Tableau
 * Developed an interactive dashboard for business reporting.
 
 Breast Cancer Dashboard
-## Breast Cancer Dashboard
 
-![Breast Cancer Dashboard](Images/breast-dashboard.png)
+![Breast Cancer Dashboard](Images/breast-cancer-analysis-dashboard.png.png)
 
 Tools: SQL, Tableau
 
@@ -56,6 +53,8 @@ Tools: SQL, Tableau
 
 Well-Life General Hospital Dashboard
 
+![Well-Life General Hospital Dashboard](Images/well-life-hospital-dashboard.png.png)
+
 Tools: Power Query, Power BI
 
 * Prepared and transformed hospital data for reporting.
@@ -63,9 +62,8 @@ Tools: Power Query, Power BI
 * Analyzed operational trends to support hospital decision-making.
 
 MTN Customer Churn Analysis
-## MTN Customer Churn Dashboard
 
-![MTN Customer Churn Dashboard](Images/mtn-dashboard.png)
+![MTN Customer Churn Dashboard](Images/mtn-churn-dashboard.png.png)
 
 Tools: Power Query, Power BI
 
@@ -74,6 +72,9 @@ Tools: Power Query, Power BI
 * Analyzed customer churn trends and key drivers.
 
 Emerald Properties Dashboard
+
+![Emerald Properties Dashboard](emerlad-properties-dashboard.png.png)
+
 
 Tools: Excel, Power Query
 
