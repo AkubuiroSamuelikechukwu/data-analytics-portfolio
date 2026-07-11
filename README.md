@@ -20,14 +20,6 @@ Skills
 
 Projects
 
-MTN Customer Churn Analysis
-
-Tools: Power Query, Power BI
-
-* Cleaned and transformed customer data.
-* Built an interactive dashboard.
-* Analyzed customer churn trends and key drivers.
-
 Automotive Sales Dashboard
 
 Tools: SQL, Tableau
@@ -36,12 +28,6 @@ Tools: SQL, Tableau
 * Identified top-performing brands and customer purchasing trends.
 * Created an interactive Tableau dashboard.
 
-Bike Sales Dashboard
-
-Tools: SQL, Tableau
-
-* Explored customer demographics and purchasing behavior.
-* Built visualizations to highlight key business insights.
 
 Sales Performance Dashboard
 
@@ -50,6 +36,38 @@ Tools: SQL, Tableau
 * Tracked sales KPIs.
 * Compared regional performance.
 * Developed an interactive dashboard for business reporting.
+
+Breast Cancer Dashboard
+
+Tools: SQL, Tableau
+
+* Analyzed breast cancer data to identify key patterns and trends.
+* Built an interactive dashboard for data exploration and reporting.
+* Presented insights to support healthcare analysis and decision-making.
+
+Well-Life General Hospital Dashboard
+
+Tools: Power Query, Power BI
+
+* Prepared and transformed hospital data for reporting.
+* Built an interactive Power BI dashboard to monitor healthcare metrics.
+* Analyzed operational trends to support hospital decision-making.
+
+MTN Customer Churn Analysis
+
+Tools: Power Query, Power BI
+
+* Cleaned and transformed customer data.
+* Built an interactive dashboard.
+* Analyzed customer churn trends and key drivers.
+
+Emerald Properties Dashboard
+
+Tools: Excel, Power Query
+
+* Cleaned and transformed property data for analysis.
+* Built a dashboard to track property performance and trends.
+* Used Excel and Power Query to organize and visualize key insights.
 
 Certifications
 
