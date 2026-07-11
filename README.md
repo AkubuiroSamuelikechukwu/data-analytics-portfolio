@@ -94,7 +94,3 @@ Contact
 * Email: akubuirosam@gmail.com
 * LinkedIn: https:www.linkedin.com/in/samuel-akubuiro-35a276285
 
-Contact
-
-* Email: akubuirosam@gmail.com
-* LinkedIn: https:www.linkedin.com/in/samuel-akubuiro-35a276285
