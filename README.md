@@ -54,6 +54,9 @@ Tools: Power Query, Power BI
 * Analyzed operational trends to support hospital decision-making.
 
 MTN Customer Churn Analysis
+## MTN Customer Churn Dashboard
+
+![MTN Customer Churn Dashboard](Images/mtn-dashboard.png)
 
 Tools: Power Query, Power BI
 
